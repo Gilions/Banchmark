@@ -1,0 +1,5 @@
+[flake8]
+ignore=E402
+exclude=*venv*,*migrations*
+max-line-length = 120
+import-order-style = google
